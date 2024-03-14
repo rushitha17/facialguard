@@ -1,4 +1,4 @@
-!pip install gradio
+
 import gradio as gr
 import inference_2 as inference
 
