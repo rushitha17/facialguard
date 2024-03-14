@@ -11,4 +11,3 @@ torchsummary
 onnx
 onnx2pytorch
 gradio
-cv2
