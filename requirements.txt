@@ -10,3 +10,4 @@ opencv-python
 torchsummary
 onnx
 onnx2pytorch
+gradio
